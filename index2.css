@@ -123,7 +123,6 @@ a:active {
 	border-radius: 50%;
 	transition-property: background, border-radius;
 	transition-duration: .5s, .5s;
-
+	transform: rotate();
 }
-/* Priority: STYLE ATTR>ID>Class pseudo-class, attribute>Elements 
-materializecss.com*/
+/* Priority: STYLE ATTR>ID>Class pseudo-class, attribute>Elements */
