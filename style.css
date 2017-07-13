@@ -1,0 +1,84 @@
+.wholebody {
+	background-color: #EEE;
+}
+
+.header-text {
+	border-style: solid;
+	padding: 50px;
+	margin: 100px 0;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #333;
+	text-decoration: underline #333;
+}
+
+.btn-text {
+	display: inline;
+}
+
+.text-12 {
+	font-size: 12px;
+}
+
+.card-header-text {
+	font-size: 30px;
+	text-decoration: underline #40C173;
+	text-transform: uppercase;
+	color: #40C173;
+	font-weight: bold;
+}
+
+.footer-right {
+	
+	display: inline-block;
+	}
+
+.image {
+	width: 100%;
+}
+
+.e-white {
+	background-color: #EEE;
+}
+
+/*MATERIALIZE OVERRIDES*/
+
+.card {
+	box-shadow: none;
+}
+
+.progress {
+	margin-top: 50px;
+	background-color: #40C173;
+}
+
+.chip {
+	margin-top: 50px;
+}
+
+.nav-wrapper {
+	margin-top: 50px;
+	background-color: #40C173;
+}
+
+.btn {
+	margin-top: 50px;
+	background-color: #40C173;
+}
+
+.white-text {
+	text-decoration: underline;
+	color: #000 !important;
+}
+
+.grey-text {
+	color: #000 !important;
+}
+
+.footer-copyright {
+	color: #000 !important;
+}
+
+.page-footer {
+	background-color: #EEE;
+}
